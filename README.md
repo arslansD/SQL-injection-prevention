@@ -7,8 +7,7 @@ This folder contains a source code for several SQL injection prevention methods.
 ## Author:
 Arslan Sultanbek uulu
 Senior Student, Department of Computer Science, Ala-Too International University, 
-ORCID ID: 0009-0001-0223-8392
-E-mail: arslansultanbekuulu@gmail.com 
+ORCID ID: 0009-0001-0223-8392, E-mail: arslansultanbekuulu@gmail.com 
 ## Coordinator:
 Mohammad Imtiyaz Gulbarga
 Lecturer, Computer Science, Co-ordinator, Cyber Security Center,
